@@ -1,4 +1,4 @@
-# vision-scripts
+# comp-vision-scripts
 
 Contains Computer Vision scripts I've put together for re-use / quick tasks.
 
