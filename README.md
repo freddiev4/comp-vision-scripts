@@ -4,8 +4,8 @@ Contains Computer Vision scripts I've put together for re-use / quick tasks.
 
 ## object detection
 
-```python
-python object-detection/detr.py --help
+```console
+$ python object-detection/detr.py --help
 Usage: detr.py [OPTIONS]
 
   CLI program that pulls a pretrained DETR model from huggingface, and runs it
