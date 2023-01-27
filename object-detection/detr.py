@@ -15,7 +15,7 @@ from transformers import (
 )
 
 logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger("DETR test script")
+logger = logging.getLogger("detr-objection-detection")
 
 
 def run_object_detection_pipeline(pipe: Pipeline, image: Image) -> None:
