@@ -70,7 +70,7 @@ def draw_bounding_boxes(
     item: str,
     score: float,
     color: str,
-):
+) -> None:
     ax = plt.gca()
 
     (xmin, ymin, xmax, ymax) = (
